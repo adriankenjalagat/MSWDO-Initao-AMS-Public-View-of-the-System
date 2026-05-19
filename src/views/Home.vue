@@ -4,7 +4,6 @@
 
     <HeroSection 
       :background-image="officeBg"
-      @scroll-to-operations="scrollToOperations"
     />
 
     <NewsCarousel 
