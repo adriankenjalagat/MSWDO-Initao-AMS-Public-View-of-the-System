@@ -10,7 +10,7 @@
 
         <div class="actions">
           <router-link to="/pre-application">
-            <button class="hero-button primary">Pre-apply forr Assistance</button>
+            <button class="hero-button primary">Pre-apply for Assistance</button>
           </router-link>
           <router-link to="/pre-donation">
             <button class="hero-button secondary">
