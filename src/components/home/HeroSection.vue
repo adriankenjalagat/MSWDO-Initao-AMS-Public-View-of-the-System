@@ -4,8 +4,8 @@
       <div class="fade-overlay"></div>
       <div class="overlay">
         <div class="hero-content">
-          <!-- <h1>Care and Compassion</h1>
-          <h1>for the Community.</h1> -->
+          <h1>Care and Compassion</h1>
+          <h1>for the Community.</h1>
         </div>
 
         <div class="actions">
