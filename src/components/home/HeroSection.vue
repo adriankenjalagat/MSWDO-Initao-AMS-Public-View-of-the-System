@@ -10,7 +10,7 @@
 
         <div class="actions">
           <router-link to="/pre-application">
-            <button class="hero-button primary">Pre-apply for Assistance</button>
+            <button class="hero-button primary">Pre-apply forr Assistance</button>
           </router-link>
           <button class="hero-button secondary" @click="$emit('scroll-to-operations')">
             Pledge Donation
