@@ -12,9 +12,11 @@
           <router-link to="/pre-application">
             <button class="hero-button primary">Pre-apply forr Assistance</button>
           </router-link>
-          <button class="hero-button secondary" @click="$emit('scroll-to-operations')">
-            Pledge Donation
-          </button>
+          <router-link to="/pre-donation">
+            <button class="hero-button secondary">
+              Pledge Donation
+            </button>
+          </router-link>
         </div>
       </div>
     </div>
@@ -29,8 +31,7 @@ export default {
       type: String,
       required: true
     }
-  },
-  emits: ['scroll-to-operations']
+  }
 }
 </script>
 

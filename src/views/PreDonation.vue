@@ -15,22 +15,19 @@
             <div class="form-group">
               <label>Donation Event:</label>
               <input type="text" v-model="donationEvent" 
-              class="form-input" 
-              readonly />
+              class="form-input" />
             </div>
             
             <div class="form-group">
               <label>Location:</label>
               <input type="text" v-model="location" 
-              class="form-input" 
-              readonly />
+              class="form-input" />
             </div>
             
             <div class="form-group">
               <label>Status Badge</label>
               <input type="text" v-model="statusBadge" 
-              class="form-input" 
-              readonly />
+              class="form-input" />
             </div>
             
             <h3 class="section-title" style="margin-top: 1.5rem;">Tell us about yourself</h3>
